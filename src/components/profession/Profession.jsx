@@ -1,12 +1,12 @@
 import Roles from "./Roles";
 
 const rolesData = [
-  {
-    id: 1,
-    title: "User Experience (UX)",
-    description:
-      "I design intuitive and enjoyable experiences by understanding user needs, conducting research, and creating wireframes and prototypes that enhance usability.",
-  },
+ {
+  id: 1,
+  title: "Shopify Developer",
+  description:
+    "I build and customize high-performing Shopify stores by developing custom themes, implementing Liquid logic, optimizing storefront performance, and integrating apps to deliver seamless e-commerce experiences.",
+},
   {
     id: 2,
     title: "User Interface (UI)",

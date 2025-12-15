@@ -43,7 +43,7 @@ const blogData = [
     image: sheetalbatra,
     date: "22 Oct, 2020",
     comments: 246,
-    title: "Designing Engaging User Interfaces for Modern Web Apps",
+    title:'',
     link: "https://sheetalbatra.com/",
   },
   {
@@ -51,7 +51,7 @@ const blogData = [
     image: houseofgulab,
     date: "22 Oct, 2020",
     comments: 246,
-    title: "Tips for Effective Dashboard Layouts and Usability",
+    title: "",
     link: "https://houseofgulab.com/",
   },
   {
@@ -59,7 +59,7 @@ const blogData = [
     image: italianShoeCompany,
     date: "22 Oct, 2020",
     comments: 246,
-    title: "How to Visualize Data for Better Product Decisions",
+    title: '',
     link: "https://cellbell.in/",
   },
   {
@@ -67,7 +67,7 @@ const blogData = [
     image: cellbell,
     date: "22 Oct, 2020",
     comments: 246,
-    title: "Responsive Design: Adapting to All Devices Seamlessly",
+    title: "",
     link: "https://cellbell.in/",
   },
   {
@@ -75,7 +75,7 @@ const blogData = [
     image: sunnysideup,
     date: "22 Oct, 2020",
     comments: 246,
-    title: "Streamlining Workflows with UI/UX Best Practices",
+    title: "",
     link: "https://sunnysideupkidz.com/",
   },
   {
@@ -83,7 +83,7 @@ const blogData = [
     image: arryajewels,
     date: "22 Oct, 2020",
     comments: 246,
-    title: "Optimizing Interface Components for Performance",
+    title: "",
     link: "https://aaryajewels.in/",
   },
     {
@@ -91,7 +91,7 @@ const blogData = [
     image: pratapsons,
     date: "22 Oct, 2020",
     comments: 246,
-    title: "Optimizing Interface Components for Performance",
+    title: "",
     link: "https://pratapsons.com/",
   },
       {
@@ -99,7 +99,7 @@ const blogData = [
     image: matsya,
     date: "22 Oct, 2020",
     comments: 246,
-    title: "Optimizing Interface Components for Performance",
+    title: "",
     link: "https://matsyaworld.com/",
   },
       {
@@ -107,7 +107,7 @@ const blogData = [
     image: rirasa,
     date: "22 Oct, 2020",
     comments: 246,
-    title: "Optimizing Interface Components for Performance",
+    title: "",
     link: "https://houseofrirasa.com/",
   },
   
