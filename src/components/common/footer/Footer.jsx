@@ -41,7 +41,7 @@ const Footer = () => {
       <p className="text-white text-center max-xs:text-[12px] max-md:text-[14px] w-full py-10">
         Developed with ❤️ by{" "}
         <a
-          href="mailto:utkarshsrivastava8787@gmail.com"
+          href="mailto:utkarsh.shopifydev@gmail.com"
           className="underline font-bold"
           target="_blank"
         >
